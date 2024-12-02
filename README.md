@@ -83,8 +83,10 @@ Expand your knowledge with these resources:
 
 ## Contribution
 
-Contributions are welcome!  
-Feel free to fork this repository, open issues, or submit pull requests to enhance examples or add new ones.
+Contributions are welcome! If you'd like to enhance this repository, feel free to:
+- Fork the repository.
+- Create a new branch for your feature or bug fix.
+- Submit a pull request with a detailed description.
 
 ---
 
